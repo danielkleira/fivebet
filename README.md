@@ -9,7 +9,7 @@ Five Bet é uma plataforma de aposta, mostrando os jogos em tempo real, o usuár
 
 # :link: Link da aplicação
 
-https://capstone-group2-alex-rho.vercel.app/
+https://5bet.vercel.app/
 
 # :computer: Tecnologias / Bibliotecas Utilizadas
 
